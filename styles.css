@@ -38,6 +38,11 @@ header {
     margin: 0;
     font-size: 30px;
     color: #333;
+    font-family: "Inter", sans-serif;
+}
+
+.subtitulo {
+    font-family: "Inter", "Inter";
 }
 
 .chamada {

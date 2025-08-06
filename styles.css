@@ -30,7 +30,7 @@ header {
 }
 
 .logo {
-    height: 80px; /* ajuste o tamanho conforme necessário */
+    height: 90px; /* ajuste o tamanho conforme necessário */
     width: auto;
 }
 
@@ -77,11 +77,13 @@ p {
 .categoria-videos img {
     opacity: 0.5;
     height: 200px;
+    border-radius: 16px;
 }
 
 .categoria-videos img:hover {
     opacity: 1.0;
     border: 3px solid green;
+    border-radius: 16px;
 }
 
 .categoria h2 {

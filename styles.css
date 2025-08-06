@@ -17,6 +17,13 @@ header {
     color: rgb(57, 182, 40);
 }
 
+.video-principal {
+    border: 3px;
+    border-radius: 16px;
+    border-color: chartreuse;
+}
+
+
 .logo-container {
     display: flex;
     align-items: center;

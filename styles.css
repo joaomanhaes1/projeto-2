@@ -19,6 +19,10 @@ header {
     border-radius: 16px;
 }
 
+.destaquee{
+    font-size: 35px;
+    color: red;
+}
 
 .logo-container {
     display: flex;

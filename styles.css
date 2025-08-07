@@ -96,11 +96,16 @@ p {
 }
 
 .categoria-imagens img {
-    opacity: 0.5;
     height: 200px;
     border-radius: 16px;
 }
 
 .categoria h2 {
     color: rgb(58, 204, 114);
+    font-size: 35px;
+}
+
+.categoria2 h2 {
+    color: rgb(58, 204, 114);
+    font-size: 35px;
 }
